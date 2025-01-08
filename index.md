@@ -8,3 +8,6 @@ On this page I have created 3 different size headers
 ``` python
 myVar = "Hello, world!"
 ```
+- [ ] Turn on GitHub pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
